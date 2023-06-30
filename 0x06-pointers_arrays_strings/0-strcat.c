@@ -20,4 +20,4 @@ do {
 } while (src[a] != '\0');
 
 return (dest);
-}i
+}
