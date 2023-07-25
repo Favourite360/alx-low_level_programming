@@ -1,7 +1,8 @@
 #include "main.h"
 
 /**
-* malloc_checked - allocates memory -  process will terminate with status value of 98
+* malloc_checked - allocates memory
+* process will terminate with status value of 98
 * @b: allocated memory
 *
 * Return: a pointer to the allocated memory
