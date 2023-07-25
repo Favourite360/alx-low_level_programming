@@ -4,11 +4,11 @@
  * int_index - searches for an integer
  * @array: input integer array
  * @size: size of the array
- * @cmp: pointer to the function to be used in 
+ * @cmp: pointer to the function to be used in
  * comparing values.
  *
  * Return: index of the first element to which the cmp
- * function does not return 0. 
+ * function does not return 0.
  * If no elements matches, return -1. If size <= 0, return -1.
  */
 
