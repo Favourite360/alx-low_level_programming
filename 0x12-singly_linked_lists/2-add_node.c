@@ -1,5 +1,3 @@
-2-add_node.c
-
 #include <stdlib.h>
 #include <string.h>
 #include "lists.h"
