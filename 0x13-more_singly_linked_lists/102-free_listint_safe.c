@@ -6,7 +6,7 @@
  * free_listint_safe - free elements of a list_t list
  * @h: first element of the list.
  *
- * Return: size of the list that was free´d
+ * Return: the size of freed list.
  */
 
 size_t free_listint_safe(listint_t **h)
